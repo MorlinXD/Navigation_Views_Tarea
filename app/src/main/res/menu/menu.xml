@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:icon="@drawable/usuario"
+        android:title="Perfil"
+        app:showAsAction="always" />
+    <item
+        android:icon="@drawable/ic_tittx"
+        android:title="Premiun" />
+    <item
+        android:icon="@drawable/ic_guardar"
+        android:title="Elementos guardados" />
+    <item
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:icon="@drawable/ic_lista"
+        android:title="Listas" />
+    <item
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:icon="@drawable/ic_billete"
+        android:title="Monetización" />
+    <item
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:icon="@drawable/ic_rayo"
+        android:title="Momentos" />
+    <item
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:icon="@drawable/ic_ads"
+        android:title="Twitter ads" />
+</menu>
